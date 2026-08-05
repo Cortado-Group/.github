@@ -22,7 +22,7 @@ We build focused AI products and the operating tools behind them — from sales 
 | [Channel Partner Enablement OS](https://channels.cortadogroup.ai) | Keeps partner reps on-brand and on-message — [details](../docs/products/channels.md) |
 | [Vantage Mail](https://emailrater.cortadogroup.ai) | Grades cold outreach against your firm's own writing bar — [details](../docs/products/emailrater.md) |
 | [14 Days to AI Readiness](https://14days.cortadogroup.ai) | A day-by-day AI-maturity curriculum — [details](../docs/products/14days.md) |
-| [Portco Insights](https://insights.cortadogroup.ai) | [details](../docs/products/insights.md) |
+| [Portco Insights](https://insights.cortadogroup.ai) | Cross-sell intelligence across your PE portfolio's CRMs — [details](../docs/products/insights.md) |
 | [Innovation Studio](https://innovationstudio.cortadogroup.ai) | 12-week hands-on software & product curriculum — [details](../docs/products/innovationstudio.md) |
 
 ## Open source
