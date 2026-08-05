@@ -17,7 +17,7 @@ We build focused AI products and the operating tools behind them — from sales 
 | Tool | What it does |
 |---|---|
 | [Cortado CRO Audit](https://landingpage.cortadogroup.ai) | Tells you why your landing page loses visitors — [details](../docs/products/landingpage.md) |
-| [Data Readiness](https://dataquality.cortadogroup.ai) | [details](../docs/products/dataquality.md) |
+| [Data Readiness](https://dataquality.cortadogroup.ai) | Profiles and cleans data before it hits your warehouse or RAG pipeline — [details](../docs/products/dataquality.md) |
 | [SDR Prep](https://sdr.cortadogroup.ai) | Research-backed call kits generated in seconds — [details](../docs/products/sdr.md) |
 | [Channel Partner Enablement OS](https://channels.cortadogroup.ai) | Keeps partner reps on-brand and on-message — [details](../docs/products/channels.md) |
 | [Vantage Mail](https://emailrater.cortadogroup.ai) | Grades cold outreach against your firm's own writing bar — [details](../docs/products/emailrater.md) |
